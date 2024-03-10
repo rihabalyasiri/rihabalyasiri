@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a Software Developer at [adesso](https://www.a
 
 ## 🚀 About Me
 
-I'm a coder, thinker, and an AI enthusiast. My journey in technology has taken me through the fascinating worlds of machine learning, large language models (LLLMs), mobile app development, and web development. I thrive on challenging myself and pushing the boundaries of what's possible with code.
+I'm a coder, thinker, and an AI enthusiast. My journey in technology has taken me through the fascinating worlds of machine learning, large language models (LLMs), mobile app development, and web development. I thrive on challenging myself and pushing the boundaries of what's possible with code.
 
 ## 💡 My Strengths
 
 - **Machine Learning & AI:** Leveraging data to train models that can mimic human intelligence and automate tasks.
-- **Large Language Models (LLLMs):** Exploring the capabilities of models like GPT to understand and generate human-like text.
+- **Large Language Models (LLMs):** Exploring the capabilities of models like GPT to understand and generate human-like text.
 - **Mobile App Development:** Creating seamless, user-friendly mobile applications that solve real-world problems.
 - **Web Development:** Building responsive and interactive websites that provide engaging user experiences.
 
