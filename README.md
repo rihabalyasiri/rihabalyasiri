@@ -25,8 +25,8 @@ I'm a coder, thinker, and an AI enthusiast. My journey in technology has taken m
 ## 🌱 I’m currently learning...
 
 - Advanced Machine Learning Techniques
-- Cloud Computing with Azure
-- Advanced app Development with Flutter and Firebase
+- Generative AI
+- Cloud Computing with AWS
 
 ## 🤝 Let's Connect!
 
