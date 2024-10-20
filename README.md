@@ -24,8 +24,8 @@ I'm a coder, thinker, and an AI enthusiast. My journey in technology has taken m
 
 ## 🌱 I’m currently learning...
 
-- Advanced Machine Learning Techniques
-- Generative AI
+- Machine Learning DevOps
+- Python Intermediate
 - Cloud Computing with AWS
 
 ## 🤝 Let's Connect!
